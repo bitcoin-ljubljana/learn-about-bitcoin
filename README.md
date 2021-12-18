@@ -1,6 +1,7 @@
-## Online resources
+### Online resources
 - https://www.lopp.net/bitcoin-information/getting-started.html
 - https://river.com/learn/bitcoin-basics/
+- https://bitcoin-resources.com/
 
 ### Videos
 - [Andreas M. Antonopoulos](https://www.youtube.com/c/aantonop/videos)
