@@ -29,6 +29,7 @@
 - [Bitcoin Is Time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
 - [Stone Ridge 2020 Shareholder Letter](https://www.microstrategy.com/en/bitcoin/documents/stone-ridge-2020-shareholder-letter)
 - [The Mother of all Orange Pills](https://armantheparman.com/moaop/)
+- [Dear Family, Dear Friends](https://dergigi.com/2020/04/27/dear-family-dear-friends/)
 
 
 ### Videos
