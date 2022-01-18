@@ -3,6 +3,8 @@
 - https://river.com/learn/bitcoin-basics/
 - https://bitcoin-resources.com/
 - https://learnmeabitcoin.com/
+- https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6
+
 
 ### Essential reading 
 - [Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f)
@@ -27,6 +29,7 @@
 - [Bitcoin Is Time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
 - [Stone Ridge 2020 Shareholder Letter](https://www.microstrategy.com/en/bitcoin/documents/stone-ridge-2020-shareholder-letter)
 - [The Mother of all Orange Pills](https://armantheparman.com/moaop/)
+
 
 ### Videos
 - [Andreas M. Antonopoulos](https://aantonop.com/educational-videos/)
