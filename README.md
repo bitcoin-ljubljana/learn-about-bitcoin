@@ -42,6 +42,7 @@
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
 - [The Bitcoin Standard](https://saifedean.com/thebitcoinstandard/)
 - [21 Lessons](https://21lessons.com/)
+- [21 Ways](https://21-ways.com/)
 
 ### Courses
 - [Bitcoin and Cryptocurrency Technologies by Princeton](https://bitcoinbook.cs.princeton.edu/)
