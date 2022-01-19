@@ -1,5 +1,3 @@
-# Curated list of Bitcoin resources
-
 ### Essential reading 
 - [Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f)
 - [The Bitcoin Reformation](https://docsend.com/view/ijd8qrs)
