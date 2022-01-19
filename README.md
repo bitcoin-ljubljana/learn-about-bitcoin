@@ -1,13 +1,5 @@
 # Curated list of Bitcoin resources
 
-### Online resources
-- [James Lopp - Getting started with Bitcoin](https://www.lopp.net/bitcoin-information/getting-started.html)
-- [Bitcoin Basics - River Financial](https://river.com/learn/bitcoin-basics/)
-- [Bitcoin Resources](https://bitcoin-resources.com/)
-- [Learn me a Bitcoin](https://learnmeabitcoin.com/)
-- [Blockchain and cryptocurrency](https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6)
-
-
 ### Essential reading 
 - [Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f)
 - [The Bitcoin Reformation](https://docsend.com/view/ijd8qrs)
@@ -32,6 +24,14 @@
 - [Stone Ridge 2020 Shareholder Letter](https://www.microstrategy.com/en/bitcoin/documents/stone-ridge-2020-shareholder-letter)
 - [The Mother of all Orange Pills](https://armantheparman.com/moaop/)
 - [Dear Family, Dear Friends](https://dergigi.com/2020/04/27/dear-family-dear-friends/)
+
+
+### Online resources
+- [James Lopp - Getting started with Bitcoin](https://www.lopp.net/bitcoin-information/getting-started.html)
+- [Bitcoin Basics - River Financial](https://river.com/learn/bitcoin-basics/)
+- [Bitcoin Resources](https://bitcoin-resources.com/)
+- [Learn me a Bitcoin](https://learnmeabitcoin.com/)
+- [Blockchain and cryptocurrency](https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6)
 
 
 ### Videos
