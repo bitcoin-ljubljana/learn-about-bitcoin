@@ -35,7 +35,7 @@
 ### Videos
 - [Andreas M. Antonopoulos](https://aantonop.com/educational-videos/)
 - [Mining explained](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-- [Human B - Bitcoin Documentary](https://mailchi.mp/b4a28e31041a/qd6tc53wb4)
+- [Human B - Bitcoin Documentary](https://vimeo.com/658711759)
 - [Bitcoin is Hope](https://www.hope.com/)
 
 ### Suggested books
