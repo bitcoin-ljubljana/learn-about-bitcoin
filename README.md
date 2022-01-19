@@ -1,9 +1,11 @@
+# Curated list of Bitcoin resources
+
 ### Online resources
-- https://www.lopp.net/bitcoin-information/getting-started.html
-- https://river.com/learn/bitcoin-basics/
-- https://bitcoin-resources.com/
-- https://learnmeabitcoin.com/
-- https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6
+- [James Lopp - Getting started with Bitcoin](https://www.lopp.net/bitcoin-information/getting-started.html)
+- [Bitcoin Basics - River Financial](https://river.com/learn/bitcoin-basics/)
+- [Bitcoin Resources](https://bitcoin-resources.com/)
+- [Learn me a Bitcoin](https://learnmeabitcoin.com/)
+- [Blockchain and cryptocurrency](https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6)
 
 
 ### Essential reading 
