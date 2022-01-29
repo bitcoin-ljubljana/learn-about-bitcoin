@@ -56,3 +56,6 @@
 
 ### News
 - [Stacker.News](https://stacker.news/)
+
+### Stacking Sats
+- [SH thread about earning sats](https://stacker.news/items/9186)
