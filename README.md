@@ -30,6 +30,7 @@
 - [Bitcoin Resources](https://bitcoin-resources.com/)
 - [Learn me a Bitcoin](https://learnmeabitcoin.com/)
 - [Blockchain and cryptocurrency](https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6)
+- [Bitcoin-only](https://bitcoin-only.com/)
 
 
 ### Videos
