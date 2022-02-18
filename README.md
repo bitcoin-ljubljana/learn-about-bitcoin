@@ -64,3 +64,8 @@
 
 ### Stacking Sats
 - [SH thread about earning sats](https://stacker.news/items/9186)
+
+\
+\
+\
+This collection is maintained by Bitcoin Ljubljana community. [If you have suggestions for additional resources please open a PR here.](https://github.com/bitcoin-ljubljana/learn-about-bitcoin)
