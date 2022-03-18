@@ -23,6 +23,7 @@
 - [The Mother of all Orange Pills](https://armantheparman.com/moaop/)
 - [Dear Family, Dear Friends](https://dergigi.com/2020/04/27/dear-family-dear-friends/)
 - [Bitcoin's Fungibility Graveyard](https://sethforprivacy.com/posts/fungibility-graveyard/)
+- [Energy cancelled](https://cryptohayes.medium.com/energy-cancelled-e9f9e53a50cd)
 
 
 ### Online resources
