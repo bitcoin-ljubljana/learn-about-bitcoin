@@ -51,6 +51,7 @@
 - [The Bitcoin Standard](https://saifedean.com/thebitcoinstandard/)
 - [21 Lessons](https://21lessons.com/)
 - [21 Ways](https://21-ways.com/)
+- [Bitcoin is Venice](https://www.uncerto.com/book-pdf)
 - [List of bitcoin books](https://bitcoinnews.com/list-of-bitcoin-books/)
 
 ### Courses
