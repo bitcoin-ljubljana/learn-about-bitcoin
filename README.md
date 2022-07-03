@@ -51,6 +51,7 @@
 - [The Bitcoin Standard](https://saifedean.com/thebitcoinstandard/)
 - [21 Lessons](https://21lessons.com/)
 - [21 Ways](https://21-ways.com/)
+- [List of bitcoin books](https://bitcoinnews.com/list-of-bitcoin-books/)
 
 ### Courses
 - [Bitcoin and Cryptocurrency Technologies by Princeton](https://bitcoinbook.cs.princeton.edu/)
