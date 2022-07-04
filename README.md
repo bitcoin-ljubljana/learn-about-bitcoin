@@ -45,6 +45,7 @@
 - [Bitcoin is Hope](https://www.hope.com/)
 - [Bitcoin for corporations 2022](https://www.youtube.com/watch?v=XdgP25UcHB0)
 - [What is lightning network](https://youtu.be/ZxrXkprwxUM)
+- [Pomp - Jason Lowery](https://www.youtube.com/watch?v=Amcj-IKmGKA)
 
 ### Suggested books
 - [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
