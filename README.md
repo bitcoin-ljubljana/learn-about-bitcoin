@@ -34,9 +34,12 @@
 - [Learn me a Bitcoin](https://learnmeabitcoin.com/)
 - [Blockchain and cryptocurrency](https://golden.com/wiki/Blockchain_and_cryptocurrency-8AR86E6)
 - [Bitcoin-only](https://bitcoin-only.com/)
+
+
+### Lightning Network
+- [Understanding Lightning by Diamond Hands](https://docsend.com/view/x2yscafayexddzps)
 - [Lightning network resources](https://www.lopp.net/lightning-information.html)
 - [Roy Sheinfeld on Lightning](https://medium.com/@kingonly)
-
 
 ### Videos
 - [Andreas M. Antonopoulos](https://aantonop.com/educational-videos/)
