@@ -68,6 +68,7 @@
 - [Bitcoin Audible](https://bitcoinaudible.com/)
 - [Bitcoin sessions](https://anchor.fm/relai)
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast/)
+- [Kevin Rooke](https://www.kevinrooke.com/podcast)
 
 ### News
 - [Stacker.News](https://stacker.news/)
