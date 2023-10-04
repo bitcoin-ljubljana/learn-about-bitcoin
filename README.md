@@ -26,6 +26,25 @@
 - [Energy cancelled](https://cryptohayes.medium.com/energy-cancelled-e9f9e53a50cd)
 - [Mises Institute on Money](https://mises.org/what-has-government-done-our-money)
 
+### Videos
+- [Andreas M. Antonopoulos](https://aantonop.com/educational-videos/)
+- [Mining explained](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
+- [Human B - Bitcoin Documentary](https://vimeo.com/658711759)
+- [Bitcoin is Hope](https://www.hope.com/)
+- [Bitcoin for corporations 2022](https://www.youtube.com/watch?v=XdgP25UcHB0)
+- [What is lightning network](https://youtu.be/ZxrXkprwxUM)
+- [Pomp - Jason Lowery](https://www.youtube.com/watch?v=Amcj-IKmGKA)
+- [Cryptography is Not Enough - Gigi](https://www.youtube.com/watch?v=C7ynm0Zkwfk)
+- [Michael Saylor - Bitcoin vs Ethereum](https://youtu.be/Of0Ojk9yVWE?si=tNToY0T53lUzuA1p)
+- [Security vs. Commodity. And why Bitcoin is the latter by Michael Saylor](https://www.youtube.com/watch?v=--zIMJcy8C4)
+
+### Suggested books
+- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
+- [The Bitcoin Standard](https://saifedean.com/thebitcoinstandard/)
+- [21 Lessons](https://21lessons.com/)
+- [21 Ways](https://21-ways.com/)
+- [Bitcoin is Venice](https://www.uncerto.com/book-pdf)
+- [List of bitcoin books](https://bitcoinnews.com/list-of-bitcoin-books/)
 
 ### Online resources
 - [James Lopp - Getting started with Bitcoin](https://www.lopp.net/bitcoin-information/getting-started.html)
@@ -41,23 +60,7 @@
 - [Lightning network resources](https://www.lopp.net/lightning-information.html)
 - [Roy Sheinfeld on Lightning](https://medium.com/@kingonly)
 
-### Videos
-- [Andreas M. Antonopoulos](https://aantonop.com/educational-videos/)
-- [Mining explained](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
-- [Human B - Bitcoin Documentary](https://vimeo.com/658711759)
-- [Bitcoin is Hope](https://www.hope.com/)
-- [Bitcoin for corporations 2022](https://www.youtube.com/watch?v=XdgP25UcHB0)
-- [What is lightning network](https://youtu.be/ZxrXkprwxUM)
-- [Pomp - Jason Lowery](https://www.youtube.com/watch?v=Amcj-IKmGKA)
-- [Cryptography is Not Enough - Gigi](https://www.youtube.com/watch?v=C7ynm0Zkwfk)
 
-### Suggested books
-- [Mastering Bitcoin](https://github.com/bitcoinbook/bitcoinbook)
-- [The Bitcoin Standard](https://saifedean.com/thebitcoinstandard/)
-- [21 Lessons](https://21lessons.com/)
-- [21 Ways](https://21-ways.com/)
-- [Bitcoin is Venice](https://www.uncerto.com/book-pdf)
-- [List of bitcoin books](https://bitcoinnews.com/list-of-bitcoin-books/)
 
 ### Courses
 - [Bitcoin and Cryptocurrency Technologies by Princeton](https://bitcoinbook.cs.princeton.edu/)
