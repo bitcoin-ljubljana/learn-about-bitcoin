@@ -25,6 +25,7 @@
 - [Bitcoin's Fungibility Graveyard](https://sethforprivacy.com/posts/fungibility-graveyard/)
 - [Energy cancelled](https://cryptohayes.medium.com/energy-cancelled-e9f9e53a50cd)
 - [Mises Institute on Money](https://mises.org/what-has-government-done-our-money)
+- [Bitcoin, not crypto by Darthcoin](https://darthcoin.substack.com/p/bitcoin-no-crypto)
 
 ### Videos
 - [Andreas M. Antonopoulos](https://aantonop.com/educational-videos/)
