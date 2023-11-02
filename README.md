@@ -25,6 +25,7 @@
 - [Energy cancelled](https://cryptohayes.medium.com/energy-cancelled-e9f9e53a50cd)
 - [Mises Institute on Money](https://mises.org/what-has-government-done-our-money)
 - [Bitcoin, not crypto by Darthcoin](https://darthcoin.substack.com/p/bitcoin-no-crypto)
+- [Shelling Out - The Origins of Money](https://nakamotoinstitute.org/shelling-out/)
 
 ### Videos
 - [Andreas M. Antonopoulos](https://aantonop.com/educational-videos/)
@@ -79,6 +80,7 @@
 
 ### News
 - [Stacker.News](https://stacker.news/)
+- [No Bullshit Bitcoin](https://www.nobsbitcoin.com/)
 
 ### Stacking Sats
 - [SH thread about earning sats](https://stacker.news/items/9186)
