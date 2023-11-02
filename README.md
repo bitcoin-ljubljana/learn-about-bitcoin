@@ -1,6 +1,5 @@
 ### Essential reading 
 - [Masters and Slaves of Money](https://breedlove22.medium.com/masters-and-slaves-of-money-255ecc93404f)
-- [The Bitcoin Reformation](https://docsend.com/view/ijd8qrs)
 - [The danger of the collective we](https://tftc.io/martys-bent/issue-754/)
 - [The Bullish Case for Bitcoin](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 - [Bitcoin becomes the Flag of Technology](https://nakamoto.com/bitcoin-becomes-the-flag-of-technology/)
@@ -45,7 +44,7 @@
 - [The Bitcoin Standard](https://saifedean.com/thebitcoinstandard/)
 - [21 Lessons](https://21lessons.com/)
 - [21 Ways](https://21-ways.com/)
-- [Bitcoin is Venice](https://www.uncerto.com/book-pdf)
+- [Bitcoin is Venice]([https://www.uncerto.com/book-pdf](https://wixlabs-pdf-dev.appspot.com/assets/pdfjs/web/viewer.html?file=%2Fpdfproxy%3Finstance%3D8gtrZyBF_rJc_1cU4zcAFtW_G182VTI8unq8pVxiqwE.eyJpbnN0YW5jZUlkIjoiNjY0MTNhMmMtYzdmMS00NTNjLTlkZmItYmFlMjllNmE0NDMyIiwiYXBwRGVmSWQiOiIxM2VlMTBhMy1lY2I5LTdlZmYtNDI5OC1kMmY5ZjM0YWNmMGQiLCJtZXRhU2l0ZUlkIjoiMDY4Y2Q2YzctMGZlOC00OTU2LWExOTItNmI5MGQxYjk4NzU0Iiwic2lnbkRhdGUiOiIyMDIyLTExLTIxVDIzOjQ1OjA5LjcwMloiLCJkZW1vTW9kZSI6ZmFsc2UsImFpZCI6IjdkNjQwZWY5LTBmM2ItNGM4NS1iZGVkLTA4MTEwOTdmMjUxNiIsImJpVG9rZW4iOiI2MGNkZWNlYi1jODE5LTBjNmEtM2M2OS1kMTcyNGZkM2MzNjYiLCJzaXRlT3duZXJJZCI6IjNjMzZhNGNkLWE3ZDQtNDMyNS1iZDEzLTY0ZDc0ZmQ3ZDMxZiJ9%26compId%3Dcomp-larfoybj%26url%3Dhttps%3A%2F%2Fdocs.wixstatic.com%2Fugd%2F3c36a4_c38694b3801e4b899976622f5d54b779.pdf#page=1&links=true&originalFileName=Bitcoin%20Is%20Venice%20author%20edition%200622&locale=en&allowDownload=true&allowPrinting=true))
 - [List of bitcoin books](https://bitcoinnews.com/list-of-bitcoin-books/)
 
 ### Online resources
