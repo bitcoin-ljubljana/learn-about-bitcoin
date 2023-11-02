@@ -61,6 +61,7 @@
 - [Understanding Lightning by Diamond Hands](https://docsend.com/view/x2yscafayexddzps)
 - [Lightning network resources](https://www.lopp.net/lightning-information.html)
 - [Roy Sheinfeld on Lightning](https://medium.com/@kingonly)
+- [Lightning Landscape](https://www.lightning-landscape.net/)
 
 
 
@@ -71,9 +72,11 @@
 
 ### Podcasts
 - [Bitcoin Audible](https://bitcoinaudible.com/)
-- [Bitcoin sessions](https://anchor.fm/relai)
 - [What Bitcoin Did](https://www.whatbitcoindid.com/podcast/)
 - [Kevin Rooke](https://www.kevinrooke.com/podcast)
+- [BTC Sessions](https://www.youtube.com/channel/UChzLnWVsl3puKQwc5PoO6Zg)
+- [Bitcoin Fundamentals](https://www.theinvestorspodcast.com/bitcoin-fundamentals/)
+- [Stephan LLivera Podcast](https://stephanlivera.com/)
 
 ### News
 - [Stacker.News](https://stacker.news/)
