@@ -33,7 +33,6 @@
 - [Bitcoin is Hope](https://www.hope.com/)
 - [Bitcoin for corporations 2022](https://www.youtube.com/watch?v=XdgP25UcHB0)
 - [What is lightning network](https://youtu.be/ZxrXkprwxUM)
-- [Pomp - Jason Lowery](https://www.youtube.com/watch?v=Amcj-IKmGKA)
 - [Cryptography is Not Enough - Gigi](https://www.youtube.com/watch?v=C7ynm0Zkwfk)
 - [Michael Saylor - Bitcoin vs Ethereum](https://youtu.be/Of0Ojk9yVWE?si=tNToY0T53lUzuA1p)
 - [Security vs. Commodity. And why Bitcoin is the latter by Michael Saylor](https://www.youtube.com/watch?v=--zIMJcy8C4)
